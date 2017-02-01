@@ -3,7 +3,7 @@
 
 Step 1: Create a file and name it MyFile.py  **5 points MAX**
 
-Step 2:  Commit the change on Github Decktop.  ***You should commit every time!***
+Step 2:  Commit the change on Github Desktop.  ***You should commit every time!***
 **10 points MAX -- 1 per commit**
 
 Step 2: In MyFile.py, define the following functions:
